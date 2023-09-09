@@ -1,0 +1,21 @@
+Utterance, pos_neg, pos_neg_neural
+"I love this product!", positive, positive
+"This movie is terrible.", negative, negative
+"The weather is nice today.", positive, neutral
+"I had a bad day.", negative, negative
+"Such a beautiful sunset!", positive, positive
+"This food is amazing.", positive, positive
+"I'm not feeling well.", negative, negative
+"I don't like this book.", negative, negative
+"I'm neutral about that decision.", neutral, neutral
+"This song is fantastic.", positive, positive
+"I'm really excited!", positive, positive
+"I'm so disappointed.", negative, negative
+"The service was great.", positive, positive
+"I feel indifferent.", neutral, neutral
+"I hate Mondays.", negative, negative
+"The concert was a blast!", positive, positive
+"I'm not sure.", neutral, neutral
+"I'm overjoyed!", positive, positive
+"I can't stand the traffic.", negative, negative
+"It's just okay.", neutral, neutral
